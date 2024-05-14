@@ -1,7 +1,7 @@
 
 # polar-H10-vulnerabilities
 
-Here we performed and explained vulnerabilities in bluetooth communication between polar h10 heart rate sensor module and polar flow, polar beat application.
+Here, we performed and explained vulnerabilities in bluetooth communication between polar h10 heart rate sensor module and polar flow, polar beat application.
 
 # Summary of vulnerabilities
 
